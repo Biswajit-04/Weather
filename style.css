@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(rain.jpg);
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand {
+    font-family: 'Roboto', sans-serif;
+    font-size: 28px;
+    color: black;
+    font-weight: bold;
+}
+
+.my-4 {
+    font-family: cursive;
+    font-size: 45px;
+}
+
+.table1 {
+    background-color: transparent;
+}
+
+.table1 thead {
+    background-color: transparent;
+}
+
+.table1 th {
+    border: none;
+    padding: 0 38px;
+    text-align: center;
+}
+
+#h2a {
+    font-family: cursive;
+    font-size: 45px;
+}
